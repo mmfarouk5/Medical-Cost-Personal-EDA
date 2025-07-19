@@ -17,6 +17,12 @@ The notebook guides you through:
 - **Features:** age, sex, bmi, children, smoker, region, charges
 - **Target:** `charges` (medical insurance cost)
 
+## 📂 Dataset Source
+
+This project uses the **Medical Cost Personal Dataset**, available on Kaggle:  
+[https://www.kaggle.com/datasets/mirichoi0218/insurance](https://www.kaggle.com/datasets/mirichoi0218/insurance)
+
+
 ## 🚀 How to Run
 
 1. Clone the repository or download the notebook.
